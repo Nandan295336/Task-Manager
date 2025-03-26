@@ -1,4 +1,4 @@
-package com.uttara;
+package com.core;
 
 public class TaskUtil {
 	public static boolean validateName(String str)

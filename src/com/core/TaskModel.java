@@ -1,4 +1,4 @@
-package com.uttara;
+package com.core;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
